@@ -1,5 +1,7 @@
 import React from 'react'
 
+// import GlobalState from './context/global/globalState'
+
 import './App.css';
 import HomePage from './views/home';
 
